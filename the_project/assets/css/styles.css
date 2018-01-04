@@ -1,0 +1,119 @@
+@font-face {
+  font-family: 'logo';
+  src: url(../../fonts/Pacifico-Regular.ttf)
+}
+@font-face {
+  font-family: 'titre';
+  src: url(../../fonts/Raleway/Raleway-Regular.ttf)
+}
+
+.logo{
+	font-family: 'logo';
+	color: #fff;
+	font-size: 2em;
+}
+.titre2{
+	font-family: 'titre';
+	color: #fff;
+	text-align: center;
+}
+p{
+  text-align:center;
+  opacity:0.6;
+}
+
+p.text-center{
+}
+
+.bouton1{
+	font-family: 'titre';
+	background:rgb(9,175,223);
+	color: #fff;
+	padding: 7px 25px 7px 25px;
+	width: 170px;
+	border: 1px solid rgb(9,175,223);
+	font-size: 1.5em;
+	
+		
+}
+
+#maLigne2{
+  background:#373737;
+  margin-top:30px;
+}
+
+#contenaire6{
+  background:#222222;
+  color:#FFF;
+  margin-top:30px;
+}
+
+i{
+  color:rgb(9,175,223);
+  opacity:1;
+	margin-right: 7px;
+}
+
+li{
+  opacity:0.6;
+  text-align:center;
+}
+
+button.btn.btn-default.btn-lg{
+  background:transparent;
+  color:#fff;
+}
+
+i#unique{
+  color:#fff;
+  vertical-align:middle;
+}
+
+#maLigne2{
+  background:#373737;
+  padding-bottom:10px;
+  padding-top:10px;
+}
+
+#maLigne3{
+  padding-top:10px;
+  padding-bottom:50px;
+}
+
+button#monBouton.btn.btn-default.btn-lg{
+  vertical-align:middle;
+  display:inline-block;
+}
+
+h1{
+  text-align:center;
+  opacity:0.6;
+  border-bottom:1px solid #001;
+  width:412px;
+  padding-bottom:10px;
+  margin-bottom:30px;
+}
+
+#contenaire1{
+  background:url(../../assets/img/landing-page-2-banner.jpg) center no-repeat;
+  height:650px;
+	background-color: rgba(0, 0, 0, 0.1);
+}
+
+#manav{
+  background:transparent;
+  border:none;
+  box-shadow:none;
+}
+
+#colognelogo{
+  margin-bottom:20px;
+}
+
+.titre{
+  opacity:1;
+  border:none;
+  text-align:center;
+	font-family: 'logo';
+}
+
